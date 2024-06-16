@@ -1,0 +1,4 @@
+com\ecom\qa\pages\HomePage.class
+com\ecom\qa\pages\LoginPage.class
+com\ecom\qa\base\TestBase.class
+com\ecom\qa\util\TestUtil.class
