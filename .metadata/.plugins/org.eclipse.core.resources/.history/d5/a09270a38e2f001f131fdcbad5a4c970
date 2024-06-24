@@ -1,0 +1,22 @@
+package com.ecom.qa.testcases;
+
+public class Tiger {
+
+	public void sound() {
+		System.out.println("Bow bow");
+	}
+
+	public void colour() {
+		System.out.println("Orange and black");
+	}
+
+}
+
+class Tiger extends Tiger {
+	public static void main(String[] arqs) {
+		Tiger t1 = new Tiger();
+		t1.sound();
+		t1.colour();
+	}
+
+}

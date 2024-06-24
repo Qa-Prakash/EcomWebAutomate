@@ -1,0 +1,23 @@
+package com.ecom.qa.testcases;
+
+ class Animal {
+
+	public void sound() throws ArithMaticException(){
+		new throw ArthMaticException()
+		System.out.println("Bow bow");
+	}
+
+	public void colour() {
+		System.out.println("Orange and black");
+	}
+
+}
+
+public class Tiger extends Animal {
+	public static void main(String[] arqs) {
+		Tiger t1 = new Tiger();
+		t1.sound();
+		t1.colour();
+	}
+
+}

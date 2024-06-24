@@ -1,0 +1,20 @@
+package com.ecom.qa.testcases;
+
+interface Prakash {
+	public void animal();
+}
+
+public class class1 implements Prakash {
+
+	public void animal() {
+		System.out.println("Hello Animal");
+		
+	}
+	
+	public static void main(String [] arqs) {
+		class1 c1 = new class1();
+		c1.animal();
+		
+		
+	}
+}

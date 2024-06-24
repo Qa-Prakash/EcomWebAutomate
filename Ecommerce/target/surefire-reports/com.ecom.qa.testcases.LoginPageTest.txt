@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ecom.qa.testcases.LoginPageTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.729 s <<< FAILURE! - in com.ecom.qa.testcases.LoginPageTest
-loginTest(com.ecom.qa.testcases.LoginPageTest)  Time elapsed: 5.512 s  <<< FAILURE!
-java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
-	at com.ecom.qa.testcases.LoginPageTest.loginTest(LoginPageTest.java:28)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.234 s - in com.ecom.qa.testcases.LoginPageTest

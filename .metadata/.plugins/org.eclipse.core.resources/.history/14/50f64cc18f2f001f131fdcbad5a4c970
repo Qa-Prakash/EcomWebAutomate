@@ -1,0 +1,16 @@
+package com.ecom.qa.testcases;
+
+import org.testng.annotations.Test;
+
+public class StringProgram {
+
+	@Test
+	public void method(){
+	String name = "Prakash@#$";
+	int length = name.length();
+	
+	for(int i =0; i<length; i++) {
+		if()
+	}
+}
+}
